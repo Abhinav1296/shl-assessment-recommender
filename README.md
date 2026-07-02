@@ -426,9 +426,4 @@ Released under the [MIT License](LICENSE). Use it, fork it, ship it. Just don't 
 
 <br/>
 
-```
-[END OF README]
-[PRESS ANY KEY TO RECOMMEND ASSESSMENTS]
-```
-
 </div>
