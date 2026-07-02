@@ -1,0 +1,9 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+GenAI_SampleConversations/
+test_api.py
+.vscode/
+.idea/

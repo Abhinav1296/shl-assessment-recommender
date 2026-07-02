@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.git/
+.gitignore
+GenAI_SampleConversations/
+test_api.py
+*.md
+!README.md
+.vscode/
+.idea/
